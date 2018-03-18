@@ -1,1 +1,2 @@
 # lsk
+print("hello world")
